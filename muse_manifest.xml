@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MAXPROF.COM" resolutions="1x" timestamp="1568186558628">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MAXPROF.COM" resolutions="1x" timestamp="1570625794563">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3977529429" ref="index"/>
+    <file name="index.css" crc="3856130661" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -15,12 +15,6 @@
   <folder name="images">
     <file name="courses-u97-fr.png" crc="429596191" ref="index"/>
     <file name="profile-u94-fr.png" crc="124575623" ref="index"/>
-    <file name="pen-u240-fr.png" crc="125838354" ref="index"/>
-    <file name="pen2-u240-r-fr.png" crc="103638183" ref="index"/>
-    <file name="artwork-1.svg" crc="233785820" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="artwork 1_poster_.png" crc="346361669" ref="index"/>
     <file name="breaker-u102-fr.png" crc="3946956527" ref="index"/>
     <file name="web.png" crc="4053244497" ref="index">
       <caption webpage="index" alt=""/>
@@ -28,6 +22,9 @@
     <file name="logo.png" crc="3833322948" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="arrow.png" crc="96915432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3932483337" seo="true" mt="1568186551236" redirect="true"/>
+  <file name="index.html" crc="4016165405" seo="true" mt="1570625722061" redirect="true"/>
 </manifest>
